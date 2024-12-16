@@ -1,5 +1,4 @@
 # E-Commerce Public Data Analysis with Python - Dicoding
-![E-Commerce Data Dashboard](dashboard.gif)
 
 [E-Commerce Data Dashboard Streamlit App](https://e-commerce-data-analyst.streamlit.app/)
 
@@ -17,13 +16,12 @@ This project is a data analysis and visualization project focused on e-commerce 
 - `dashboard/`: This directory contains dashboard.py which is used to create dashboards of data analysis results.
 - `data/`: Directory containing the raw CSV data files.
 - `notebook.ipynb`: This file is used to perform data analysis.
-- `notebook_ID.ipynb`: notebook.ipynb in Indonesian.
 - `README.md`: This documentation file.
 
 ## Installation
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/mhdhfzz/data-analyst-dicoding.git
+git clone https://github.com/hisbullah24/data-analyst-dicoding.git
 ```
 2. Go to the project directory
 ```
